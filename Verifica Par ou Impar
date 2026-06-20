@@ -1,0 +1,19 @@
+algoritmo semNome; 
+
+principal
+//declara variaveis
+
+inteiro numero ;
+
+//solicita valor pra usuario
+escreva ("Entre com um numero");
+leia (numero);
+
+//testa o numero
+
+se ( (numero % 2) == 0 ) entao
+escreva ("Mensagem 1 ");
+senao
+escreva ("Mensagem 2");
+
+fimPrincipal
