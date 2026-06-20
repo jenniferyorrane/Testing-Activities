@@ -1,0 +1,13 @@
+algoritmo semNome; 
+
+principal
+//declaracao de variaveis
+inteiro contador ;
+
+//repeticao
+
+para (contador de 10 ate 20 passo 2) faca
+    escreva ( contador, " " ) ;
+fimPara
+
+fimPrincipal 
